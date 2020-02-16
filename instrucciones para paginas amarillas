@@ -1,0 +1,16 @@
+
+
+
+1)armar listado de URLs a visitar por categoria(43 categorías).
+2)CREAR UN DATAFRAME DE PANDAS CON UNA TABLA QUE TENGA:
+>CATEGORIA(43 distintas)
+>NOMBRE EMPRESA (TITLE)
+>TELEFONO
+>EMAIL
+>DIRECCION
+>LOCALIDAD(24 distintas)
+>DESCRIPCION
+>SITIO WEB
+2)visitar n URLs de n categoria(s) y navegar todas sus paginas extrayendo los rows, para luego, evitando duplicados, insertarlos en una BD.
+
+La base de datos debería evitar duplicados y tener más de 20mil registros divididos por categoría.
